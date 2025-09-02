@@ -1,6 +1,6 @@
 # Poetry Reader
 
-A simple, responsive poetry reader, made using poetryDB.org API. The design envokes full stops -- the draggable dot in the middle of the screen, the title font and the rounded corners. 
+A simple, responsive poetry reader, made using poetryDB.org API. The design evokes full stops -- the draggable dot in the middle of the screen, the title font and the rounded corners. 
 
 ## Features:
 
@@ -19,3 +19,4 @@ A simple, responsive poetry reader, made using poetryDB.org API. The design envo
 ## Shoutout
 
 Special thanks to the PoetryDB API for making the humanities free and accessible on the web. Visit their page here: [PoetryDB website link](https://poetrydb.org/index.html)
+
